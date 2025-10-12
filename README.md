@@ -1,4 +1,4 @@
-# NMM-RedRock-World-CDN
+# Conte CDN
 
 The following applies to all files in this repository, with or without metadata attached.
 
