@@ -1,5 +1,14 @@
 # Conte CDN
 
+## Notes to self
+Root = Contenentia.github.io/cdn/#
+
+Example: 
+https://Contenentia.github.io/cdn/mow.png
+(or)
+https://Contenentia.github.io/cdn/images/mow.png
+
+## Legal
 The following applies to all files in this repository, with or without metadata attached.
 
 
